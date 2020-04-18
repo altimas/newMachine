@@ -24,3 +24,4 @@ To begin onboarding, run `index.sh`.
 -   MiniKube
 -   Slack
 -   Google Chrome
+-   Docker
