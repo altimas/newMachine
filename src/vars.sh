@@ -2,7 +2,7 @@
 VS_CODE_EXTENSIONS=( \
     aaron-bond.better-comments \
     bengreenier.vscode-node-readme \
-    burkeholland.simple-react-snippets \
+    nicholashsiang.vscode-react-snippet \
     christian-kohler.npm-intellisense \
     dbaeumer.vscode-eslint \
     dzannotti.vscode-babel-coloring \
