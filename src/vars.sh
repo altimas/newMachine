@@ -6,6 +6,7 @@ VS_CODE_EXTENSIONS=( \
     christian-kohler.npm-intellisense \
     dbaeumer.vscode-eslint \
     dzannotti.vscode-babel-coloring \
+    orta.vscode-jest \
     eamodio.gitlens \
     eg2.vscode-npm-script \
     esbenp.prettier-vscode \
